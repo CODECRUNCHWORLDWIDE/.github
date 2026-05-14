@@ -1,6 +1,6 @@
 # 🌍 Code Crunch Worldwide
 
-> **Free, open-source software education — built by students, in the open, for the world.**
+> **Free, open-source software education — built for the world.**
 >
 > 24 tracks. Two tiers. From your first line of Python to production-grade systems engineer.
 
@@ -136,8 +136,8 @@ Full path catalog: [`MASTER-CURRICULUM.md`](https://github.com/CODE-CRUNCH-WORLD
 
 We run multiple in-person and virtual hackathons every year. Open to all skill levels.
 
-- 🌴 **HackFiesta Miami** · **305 Hackathon Series** · **CodeStorm** · **SummerCodeX** · **EmpowHER** · **CodeFest**
-- Event archive + sign-ups: [hackuniversity-hackathons.vercel.app](https://hackuniversity-hackathons.vercel.app/)
+- 🌴 **305 HackFiesta Miami** · **305 Hackathon Series** · **305 CodeStorm** · **305 SummerCodeX** · **305 EmpowHER** · **305 CodeFest**
+- Event archive + sign-ups: Calendar — [codecrunchglobal.vercel.app/hackathons](https://codecrunchglobal.vercel.app/hackathons)
 - Resources & prep: see [C4 — Crunch Labs Hackathons](https://github.com/CODE-CRUNCH-WORLDWIDE/C4-Crunch-Labs-Hackathons)
 
 ---
@@ -147,8 +147,8 @@ We run multiple in-person and virtual hackathons every year. Open to all skill l
 You don't need permission to start learning. Every course is public, every README is free to read, every exercise is yours to attempt.
 
 - 🌐 **Website** — [codecrunchglobal.vercel.app](https://codecrunchglobal.vercel.app/)
-- 📝 **Membership form** — [`/community-access`](https://codecrunchglobal.vercel.app/community-access.html) (for FIU students and contributors)
-- 🗓️ **Calendar** — [lu.ma/CODECRUNCH](https://lu.ma/CODECRUNCH)
+- 📝 **Membership form** — [`/membership`](https://codecrunchglobal.vercel.app/membership) (for everyone and contributors)
+- 🗓️ **Calendar** — [`/calendar`](https://codecrunchglobal.vercel.app/calendar)
 - 💬 **Discord & GroupMe** — links on the community-access page
 - 🏫 **Panther Connect** (FIU students) — [fiu.campuslabs.com/engage/organization/codecrunch](https://fiu.campuslabs.com/engage/organization/codecrunch)
 
